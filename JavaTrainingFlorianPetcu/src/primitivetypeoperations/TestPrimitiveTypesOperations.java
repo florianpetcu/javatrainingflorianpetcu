@@ -24,20 +24,6 @@ public class TestPrimitiveTypesOperations {
         double d1 = -310.28;
         double d2,d3;
         
-        s3 = (short)i1;
-        i2 = s1+s3;
-        
-        i3 = (short)l1;
-        l2 = i1+i3;
-        
-        l3 = (short)f1;
-        f2 = l1+l3;
-        
-        f3 = (short)d1;
-        f2 = f1+f3;
-        
-        d2 = -245.30;
-        d3 = d1+d2;
                 
     }
     
