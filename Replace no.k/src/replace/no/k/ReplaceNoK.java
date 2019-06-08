@@ -19,6 +19,7 @@ public class ReplaceNoK {
         third = second;
         second = first;
         first = third;
+        
         System.out.println("first=" + first + " second=" + second);
     }
     
